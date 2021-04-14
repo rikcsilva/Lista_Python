@@ -1,3 +1,5 @@
+# Faça um Programa que leia três números e mostre o maior e o menor deles.
+
 a = int(input('a: '))
 b = int(input('b: '))
 c = int(input('c: '))
